@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'AI WebsScraper',
+  description: 'A powerful AI-driven web scraper that leverages FastAPI and Googles Generative AI to intelligently extract and process structured data from websites. Designed for flexibility, automation, and integration into modern data workflows.',
+  generator: 'Next.js',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
