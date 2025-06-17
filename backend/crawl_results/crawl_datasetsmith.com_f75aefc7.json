@@ -1,0 +1,130 @@
+[
+  {
+    "url": "https://datasetsmith.com/",
+    "title": "High-Quality Datasets for Speech AI Models - TTS ASR",
+    "description": "Studio-quality text-to-speech datasets with diverse emotions and styles, professionally recorded and validated by expert linguists for AI/ML model training.",
+    "extracted_data": {},
+    "raw_markdown": "![Gradscaler](https://datasetsmith.com/assets/logo2-BA-nfG-c.png)Buy Awesome Data\nHomeExplore DatasetsOur ToolsBe Data PartnerOur StoryBuy Voices\n# Discover the Rich Tapestry of Datasets\nOur datasets are precisely captured in state-of-the-art studios worldwide, offering 1500 hours of curated recordings to empower TTS models with exceptional fine-tuning precision.\nExplore Datasets\n![High-Quality Datasets for AI and Predictive Analytics](https://datasetsmith.com/assets/parrot-cropped-CXAIgxVm.svg)\nOur Features\n## Why Choose Datasetsmith.com?\nOur high-quality datasets and data annotation services are crafted with precision to ensure accuracy and easy integration for businesses looking to advance their AI models.\n# High Quality Data\nOur datasets are recorded in SOTA Studio facilities, delivering clean, structured, and high-quality audio for advanced AI models and analytics. With professional voice actors across diverse language accents and dialects, each dataset includes annotated non-verbal sounds, and tagged emotions and speaking styles bringing unmatched precision, depth, and linguistic diversity to your finetuning pipeline.\n# Indic Languages\nWe provide datasets in many Indic languages, enabling you to build AI solutions for diverse linguistic needs. Our resources support the creation of inclusive technology that effectively serves multilingual communities.\n# Highly Accurate Data\nOur speech recognition datasets are optimized for high accuracy, ensuring exceptionally low Word Error Rate (WER), Character Error Rate (CER), Sentence Error Rate (SER), and Diarization Error Rate (DER) all less than 1.99%. Ideal for building robust voice enabled applications.\nData-Annotation Services\n## On-Prem Annotation Services\nOur on-premise annotation ensures top data security while capturing non-verbal sounds, emotions, cues, translation and transliteration. With humans-in-the-loop and expert 3-stage validation, we deliver 100% accurate, prosody-rich datasets. Need DaaS or AaaS? We've got both built for unbeatable AI.\n### Our Specialized Services\n  * Data Correction\n  * Data Tagging\n  * Conversational Data Tagging\n  * Synthetic Data Validation\n  * Data Scaling\n\n\n### Quality Metrics\nWord Error Rate (WER)\nLess than 3% WER\nModel Accuracy Improvement\nUp to 5% improvement\n## Quality Metrics & Performance\n#### Word Error Rate (WER)\n<3%\nIndustry-leading accuracy in speech recognition\n#### Model Accuracy Improvement\n+5%\nAverage improvement in model performance\n#### CER\n<1.99%\nCharacter Error Rate\n#### DER\n<1.99%\nDiarization Error Rate\n#### Validation\n3-Stage\nQuality Assurance\nOur multi-layered approach guarantees high-quality, reliable data, enhancing model performance. Using our services, our clients have successfully improved their model accuracy by up to 5%. Our datasets maintain a WER of less than 3%.\n## Trusted by Industry Leaders\n![Cartesia](https://datasetsmith.com/assets/cartesia-Bau8WHMd.png)\n![Observe.ai](https://datasetsmith.com/assets/prahas-Cl8ezIn0.png)\n![DesiVocal](https://datasetsmith.com/assets/DesiVocal-D84pjwW-.png)\n![Resemble.ai](https://datasetsmith.com/assets/resemble.ai-Bw1BHrfF.webp)\n![DubDub](https://datasetsmith.com/assets/dubdub-CZ2XUlX6.png)\nInterested in learning more about Datasetsmith? Let's connect and discuss how we can tailor them to your needs.\nSchedule Meeting\n![Company Logo](https://datasetsmith.com/assets/logo2-BA-nfG-c.png)\nEmpowering data-driven decisions through innovative solutions and expert guidance.\n![ISO Certification](https://datasetsmith.com/assets/iso-mQmCdSrx.png)![GDPR Compliance](https://datasetsmith.com/assets/gdpr-BYfkvzBN.png)\n### Quick Links\n  * Blog\n  * FAQ\n  * Terms & Conditions\n  * Privacy Policy\n  * Contact Us\n\n\n### Connect With Us\nFollow us on social media for updates\ntech@datasetsmith.com\n[LinkedIn](https://www.linkedin.com/company/datasetsmith/)\n[Twitter](https://x.com/datasetsmith)\n© 2025 datasetsmith.com, All rights reserved.\ndatasetsmith.com is owned by Brandsmith Worldwide (INDIA)\n",
+    "metadata": {
+      "title": "High-Quality Datasets for Speech AI Models - TTS ASR",
+      "description": "Studio-quality text-to-speech datasets with diverse emotions and styles, professionally recorded and validated by expert linguists for AI/ML model training.",
+      "keywords": "text-to-speech dataset, TTS data, speech synthesis, voice dataset, audio corpus, linguistic validation, studio recorded voices, emotional speech data, AI training data, ML voice datasets",
+      "author": "Datasetsmith",
+      "og:title": "Datasetsmith - Professional Text-to-Speech Datasets & Voice Data",
+      "og:description": "Premium text-to-speech datasets featuring studio-quality recordings with diverse emotions and expert linguistic validation for AI/ML applications.",
+      "og:type": "website",
+      "og:site_name": "Datasetsmith"
+    },
+    "links": {
+      "internal": [],
+      "external": [
+        {
+          "href": "mailto:tech@datasetsmith.com",
+          "text": "tech@datasetsmith.com",
+          "title": "",
+          "base_domain": ""
+        },
+        {
+          "href": "https://www.linkedin.com/company/datasetsmith/",
+          "text": "LinkedIn",
+          "title": "",
+          "base_domain": "linkedin.com"
+        },
+        {
+          "href": "https://x.com/datasetsmith",
+          "text": "Twitter",
+          "title": "",
+          "base_domain": "x.com"
+        }
+      ]
+    },
+    "navigation_links": [],
+    "media": {
+      "images": [
+        {
+          "src": "/assets/parrot-cropped-CXAIgxVm.svg",
+          "data": "",
+          "alt": "High-Quality Datasets for AI and Predictive Analytics",
+          "desc": "Discover the Rich Tapestry of Datasets Our datasets are precisely captured in state-of-the-art studios worldwide, offering 1500 hours of curated recordings to empower TTS models with exceptional fine-tuning precision. Explore Datasets",
+          "score": 4,
+          "type": "image",
+          "group_id": 1,
+          "format": null,
+          "width": null
+        },
+        {
+          "src": "/assets/cartesia-Bau8WHMd.png",
+          "data": "",
+          "alt": "Cartesia",
+          "desc": "Trusted by Industry Leaders",
+          "score": 5,
+          "type": "image",
+          "group_id": 2,
+          "format": "png",
+          "width": null
+        },
+        {
+          "src": "/assets/prahas-Cl8ezIn0.png",
+          "data": "",
+          "alt": "Observe.ai",
+          "desc": "Trusted by Industry Leaders",
+          "score": 5,
+          "type": "image",
+          "group_id": 3,
+          "format": "png",
+          "width": null
+        },
+        {
+          "src": "/assets/DesiVocal-D84pjwW-.png",
+          "data": "",
+          "alt": "DesiVocal",
+          "desc": "Trusted by Industry Leaders",
+          "score": 5,
+          "type": "image",
+          "group_id": 4,
+          "format": "png",
+          "width": null
+        },
+        {
+          "src": "/assets/resemble.ai-Bw1BHrfF.webp",
+          "data": "",
+          "alt": "Resemble.ai",
+          "desc": "Trusted by Industry Leaders",
+          "score": 4,
+          "type": "image",
+          "group_id": 5,
+          "format": "webp",
+          "width": null
+        },
+        {
+          "src": "/assets/dubdub-CZ2XUlX6.png",
+          "data": "",
+          "alt": "DubDub",
+          "desc": "Trusted by Industry Leaders",
+          "score": 4,
+          "type": "image",
+          "group_id": 6,
+          "format": "png",
+          "width": null
+        },
+        {
+          "src": "/assets/iso-mQmCdSrx.png",
+          "data": "",
+          "alt": "ISO Certification",
+          "desc": "Empowering data-driven decisions through innovative solutions and expert guidance.",
+          "score": 4,
+          "type": "image",
+          "group_id": 8,
+          "format": "png",
+          "width": null
+        }
+      ],
+      "videos": [],
+      "audios": []
+    },
+    "cleaned_content": "![Gradscaler](https://datasetsmith.com/assets/logo2-BA-nfG-c.png)Buy Awesome Data\nHomeExplore DatasetsOur ToolsBe Data PartnerOur StoryBuy Voices\n# Discover the Rich Tapestry of Datasets\nOur datasets are precisely captured in state-of-the-art studios worldwide, offering 1500 hours of curated recordings to empower TTS models with exceptional fine-tuning precision.\nExplore Datasets\n![High-Quality Datasets for AI and Predictive Analytics](https://datasetsmith.com/assets/parrot-cropped-CXAIgxVm.svg)\nOur Features\n## Why Choose Datasetsmith.com?\nOur high-quality datasets and data annotation services are crafted with precision to ensure accuracy and easy integration for businesses looking to advance their AI models.\n# High Quality Data\nOur datasets are recorded in SOTA Studio facilities, delivering clean, structured, and high-quality audio for advanced AI models and analytics. With professional voice actors across diverse language accents and dialects, each dataset includes annotated non-verbal sounds, and tagged emotions and speaking styles bringing unmatched precision, depth, and linguistic diversity to your finetuning pipeline.\n# Indic Languages\nWe provide datasets in many Indic languages, enabling you to build AI solutions for diverse linguistic needs. Our resources support the creation of inclusive technology that effectively serves multilingual communities.\n# Highly Accurate Data\nOur speech recognition datasets are optimized for high accuracy, ensuring exceptionally low Word Error Rate (WER), Character Error Rate (CER), Sentence Error Rate (SER), and Diarization Error Rate (DER) all less than 1.99%. Ideal for building robust voice enabled applications.\nData-Annotation Services\n## On-Prem Annotation Services\nOur on-premise annotation ensures top data security while capturing non-verbal sounds, emotions, cues, translation and transliteration. With humans-in-the-loop and expert 3-stage validation, we deliver 100% accurate, prosody-rich datasets. Need DaaS or AaaS? We've got both built for unbeatable AI.\n### Our Specialized Services\n* Data Correction\n* Data Tagging\n* Conversational Data Tagging\n* Synthetic Data Validation\n* Data Scaling\n### Quality Metrics\nWord Error Rate (WER)\nLess than 3% WER\nModel Accuracy Improvement\nUp to 5% improvement\n## Quality Metrics & Performance\n#### Word Error Rate (WER)\nIndustry-leading accuracy in speech recognition\n#### Model Accuracy Improvement\nAverage improvement in model performance\n#### CER\nCharacter Error Rate\n#### DER\nDiarization Error Rate\n#### Validation\n3-Stage\nQuality Assurance\nOur multi-layered approach guarantees high-quality, reliable data, enhancing model performance. Using our services, our clients have successfully improved their model accuracy by up to 5%. Our datasets maintain a WER of less than 3%.\n## Trusted by Industry Leaders\n![Cartesia](https://datasetsmith.com/assets/cartesia-Bau8WHMd.png)\n![Observe.ai](https://datasetsmith.com/assets/prahas-Cl8ezIn0.png)\n![DesiVocal](https://datasetsmith.com/assets/DesiVocal-D84pjwW-.png)\n![Resemble.ai](https://datasetsmith.com/assets/resemble.ai-Bw1BHrfF.webp)\n![DubDub](https://datasetsmith.com/assets/dubdub-CZ2XUlX6.png)\nInterested in learning more about Datasetsmith? Let's connect and discuss how we can tailor them to your needs.\nSchedule Meeting\n![Company Logo](https://datasetsmith.com/assets/logo2-BA-nfG-c.png)\nEmpowering data-driven decisions through innovative solutions and expert guidance.\n![ISO Certification](https://datasetsmith.com/assets/iso-mQmCdSrx.png)![GDPR Compliance](https://datasetsmith.com/assets/gdpr-BYfkvzBN.png)\n### Quick Links\n* Blog\n* FAQ\n* Terms & Conditions\n* Privacy Policy\n* Contact Us\n### Connect With Us\nFollow us on social media for updates\ntech@datasetsmith.com\n[LinkedIn](https://www.linkedin.com/company/datasetsmith/)\n[Twitter](https://x.com/datasetsmith)\n© 2025 datasetsmith.com, All rights reserved.\ndatasetsmith.com is owned by Brandsmith Worldwide (INDIA)",
+    "word_count": 459,
+    "content_type": "markdown",
+    "success": true
+  }
+]
