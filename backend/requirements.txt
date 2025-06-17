@@ -1,8 +1,7 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 fastapi==0.109.1
 uvicorn[standard]==0.27.0
-pydantic==2.6.1
-pydantic-core==2.16.2  # Explicitly specify a version compatible with Python 3.13
+pydantic>=2.10
 crawl4ai==0.6.3
 python-dotenv==1.0.0
 beautifulsoup4==4.12.2
