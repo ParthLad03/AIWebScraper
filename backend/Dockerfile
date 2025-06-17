@@ -1,25 +1,46 @@
-# Use Python 3.11 (not 3.13 for compatibility)
+# Use Python 3.11 (instead of 3.13 to avoid compatibility issues)
 FROM python:3.11-slim
 
-# Install Rust toolchain (for pydantic-core compiled dependencies)
-RUN apt-get update && apt-get install -y curl build-essential \
-    && curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y \
-    && echo 'source $HOME/.cargo/env' >> ~/.bashrc
+# Install system dependencies including ones needed by browsers
+RUN apt-get update && apt-get install -y \
+    curl \
+    build-essential \
+    wget \
+    libnss3 \
+    libatk1.0-0 \
+    libatk-bridge2.0-0 \
+    libcups2 \
+    libxcomposite1 \
+    libxrandr2 \
+    libxdamage1 \
+    libxkbcommon0 \
+    libgtk-3-0 \
+    libdrm2 \
+    libgbm1 \
+    libasound2 \
+    && apt-get clean
+
+# Install Rust (required by some Python packages)
+RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+ENV PATH="/root/.cargo/bin:$PATH"
 
 # Set working directory
 WORKDIR /app
 
-# Copy dependencies first (for caching)
+# Copy dependency list
 COPY requirements.txt .
 
-# Source Rust env & install Python dependencies
-RUN /bin/bash -c "source $HOME/.cargo/env && pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt"
+# Install Python dependencies
+RUN /bin/bash -c "source $HOME/.cargo/env && pip install --no-cache-dir -r requirements.txt"
 
-# Copy rest of the app
+# ⬇️ Add this line to install browsers for Playwright
+RUN playwright install --with-deps
+
+# Copy your app
 COPY . .
 
 # Expose app port
 EXPOSE 8000
 
-# Start FastAPI app
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Start the app
+CMD ["python", "main.py"]
